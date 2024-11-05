@@ -61,4 +61,5 @@ null == undefined;
  var myObj = {myKey: "myValue", "my other key": 4};
  myObj["my other key"];
  myObj.myKey;
+ myObj.myThirdKey = true;
  
