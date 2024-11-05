@@ -113,4 +113,9 @@ null == undefined;
     return thing.toUpperCase();
  }
  myFunction("foo");
+ function myFunction(){
+    return
+    {thisIsAn: 'object literal'}
+ }
+ myFunction();
  
