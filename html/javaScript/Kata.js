@@ -50,4 +50,5 @@ null == undefined;
  myArray.length;
  myArray[3] = "Hello";
  myArray.unshift(3);
+ someVar = myArray.shift();
  
