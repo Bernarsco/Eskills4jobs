@@ -36,4 +36,5 @@ null == undefined;
  "Hello" . length;
  null;
  undefined;
+ var someVar = 5;
  
