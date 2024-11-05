@@ -82,5 +82,9 @@ null == undefined;
  var person = {fname: "Paul", lname: "Ken", age: 18};
  for (var x in person) {
     description += person[x] + "";
+ }var myPets = "";
+ var pets = ["cat", "dog", "hamster", "hedgehog"];
+ for (var pet of pets) {
+    myPets += pet + " ";
  }
  
