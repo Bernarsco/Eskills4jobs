@@ -47,4 +47,5 @@ null == undefined;
  var myArray = ["Hello", 45, true];
  myArray[1];
  myArray.push("World");
+ myArray.length;
  
