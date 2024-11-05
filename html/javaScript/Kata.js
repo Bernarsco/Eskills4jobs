@@ -78,4 +78,9 @@ null == undefined;
         }
     }
  }
+ var description = "";
+ var person = {fname: "Paul", lname: "Ken", age: 18};
+ for (var x in person) {
+    description += person[x] + "";
+ }
  
