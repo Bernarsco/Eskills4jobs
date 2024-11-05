@@ -34,4 +34,5 @@ null == undefined;
 "This is a string" . charAt (0);
 "Hello world" .substring(0, 5);
  "Hello" . length;
+ null;
  
