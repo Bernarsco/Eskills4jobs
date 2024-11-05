@@ -68,4 +68,7 @@ null == undefined;
  do {
     input = getInput();
  } while (!isValid(input));
+ for (var i = 0; i < 5; i++){
+
+ };
  
