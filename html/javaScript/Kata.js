@@ -138,3 +138,10 @@ null == undefined;
     }
  };
 myObj.myFunc();
+myObj = {
+    myString: "Hello world!",
+    myFunc: function(){
+        return this.myString;
+    }
+};
+myObj.myFunc();
