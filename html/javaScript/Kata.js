@@ -56,4 +56,5 @@ null == undefined;
  var myArray0 = [32, false, "js", 12, 56, 90];
  myArray0.join(";");
  myArray0.slice(1,4);
+ myArray0.splice(2,4, "hi", "wr", "ld");
  
