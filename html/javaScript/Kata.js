@@ -64,4 +64,8 @@ null == undefined;
  myObj.myThirdKey = true;
  myObj.myFourthKey;
  var count = 1;
+ var input;
+ do {
+    input = getInput();
+ } while (!isValid(input));
  
