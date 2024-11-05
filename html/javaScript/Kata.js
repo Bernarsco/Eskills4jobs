@@ -55,4 +55,5 @@ null == undefined;
  someVar = myArray.pop();
  var myArray0 = [32, false, "js", 12, 56, 90];
  myArray0.join(";");
+ myArray0.slice(1,4);
  
