@@ -118,4 +118,5 @@ null == undefined;
     {thisIsAn: 'object literal'}
  }
  myFunction();
+ setTimeout(myFunction, 5000);
  
