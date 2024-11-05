@@ -94,4 +94,19 @@ null == undefined;
 
  }
  var name = otherName || "default";
+ grade = 'B';
+ switch (grade) {
+    case 'A':
+        console.log("Great job");
+        break;
+    case 'B':
+        console.log("OK job");
+        break;
+    case 'C':
+        console.log("You can do better");
+        break;
+        default:
+        console.log("Oy vey");
+        break;
+ }
  
