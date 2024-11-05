@@ -37,4 +37,5 @@ null == undefined;
  null;
  undefined;
  var someVar = 5;
+ someOtherVar = 10;
  
