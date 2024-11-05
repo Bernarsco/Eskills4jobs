@@ -1,0 +1,13 @@
+.lab1 {
+  display: block;
+}
+.lab2 {
+  display: block;
+}
+button {
+  margin-top: 15px;
+  cursor: pointer;
+}
+body {
+  background-color: rgb(0, 255, 221);
+}
