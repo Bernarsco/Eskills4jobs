@@ -32,3 +32,5 @@
 null == undefined;
 "5" === 5;
 "This is a string" . charAt (0);
+"Hello world" .substring(0, 5);
+ 
