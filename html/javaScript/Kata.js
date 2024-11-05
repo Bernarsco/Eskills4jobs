@@ -63,4 +63,5 @@ null == undefined;
  myObj.myKey;
  myObj.myThirdKey = true;
  myObj.myFourthKey;
+ var count = 1;
  
