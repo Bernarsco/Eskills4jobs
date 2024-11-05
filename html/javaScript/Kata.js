@@ -60,4 +60,5 @@ null == undefined;
  var myObj = {key1: "Hello", key2: "World"};
  var myObj = {myKey: "myValue", "my other key": 4};
  myObj["my other key"];
+ myObj.myKey;
  
