@@ -52,4 +52,5 @@ null == undefined;
  myArray.unshift(3);
  someVar = myArray.shift();
  myArray.push(3);
+ someVar = myArray.pop();
  
