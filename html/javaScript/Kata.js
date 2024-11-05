@@ -53,4 +53,5 @@ null == undefined;
  someVar = myArray.shift();
  myArray.push(3);
  someVar = myArray.pop();
+ var myArray0 = [32, false, "js", 12, 56, 90];
  
