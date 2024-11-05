@@ -93,4 +93,5 @@ null == undefined;
  if (colour == "red" || colour == "blue") {
 
  }
+ var name = otherName || "default";
  
