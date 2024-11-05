@@ -31,3 +31,4 @@
 "5" == 5;
 null == undefined;
 "5" === 5;
+"This is a string" . charAt (0);
