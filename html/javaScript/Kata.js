@@ -35,4 +35,5 @@ null == undefined;
 "Hello world" .substring(0, 5);
  "Hello" . length;
  null;
+ undefined;
  
