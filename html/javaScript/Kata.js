@@ -119,4 +119,8 @@ null == undefined;
  }
  myFunction();
  setTimeout(myFunction, 5000);
+ function myFunction(){
+
+ }
+ setInterval(myFunction, 5000);
  
