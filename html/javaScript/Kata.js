@@ -126,4 +126,10 @@ null == undefined;
  if (true) {
     var i = 5;
  }
+ function sayHelloInFiveSeconds(name){
+    var prompt = "Hello, " + name + "!";
+    function inner(){
+        alert(prompt);
+    }
+ }
  
