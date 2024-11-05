@@ -44,4 +44,5 @@ null == undefined;
  someVar *= 10;
  someVar++;
  someVarr--;
+ var myArray = ["Hello", 45, true];
  
