@@ -12,3 +12,4 @@
 (1 + 3) * 2;
 'abc';
 "Hello, world";
+!true;
