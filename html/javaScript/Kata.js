@@ -132,4 +132,9 @@ null == undefined;
         alert(prompt);
     }
  }
- 
+ var myObj = {
+    myFunc: function(){
+        return "Hello world";
+    }
+ };
+myObj.myFunc();
