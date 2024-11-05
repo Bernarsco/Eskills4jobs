@@ -62,4 +62,5 @@ null == undefined;
  myObj["my other key"];
  myObj.myKey;
  myObj.myThirdKey = true;
+ myObj.myFourthKey;
  
