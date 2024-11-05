@@ -40,4 +40,5 @@ null == undefined;
  someOtherVar = 10;
  var someThirdVar;
  var someFourthVar = 2, someFifthVar = 4;
+ someVar += 5;
  
