@@ -58,4 +58,5 @@ null == undefined;
  myArray0.slice(1,4);
  myArray0.splice(2,4, "hi", "wr", "ld");
  var myObj = {key1: "Hello", key2: "World"};
+ var myObj = {myKey: "myValue", "my other key": 4};
  
