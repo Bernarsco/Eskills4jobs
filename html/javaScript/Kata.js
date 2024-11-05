@@ -48,4 +48,5 @@ null == undefined;
  myArray[1];
  myArray.push("World");
  myArray.length;
+ myArray[3] = "Hello";
  
