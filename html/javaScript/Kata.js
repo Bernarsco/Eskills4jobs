@@ -123,4 +123,7 @@ null == undefined;
 
  }
  setInterval(myFunction, 5000);
+ if (true) {
+    var i = 5;
+ }
  
