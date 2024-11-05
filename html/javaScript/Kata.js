@@ -109,4 +109,8 @@ null == undefined;
         console.log("Oy vey");
         break;
  }
+ function myFunction(thing){
+    return thing.toUpperCase();
+ }
+ myFunction("foo");
  
