@@ -87,4 +87,10 @@ null == undefined;
  for (var pet of pets) {
     myPets += pet + " ";
  }
+ if (house.size == "big" && house.colour == "blue") {
+    house.contains = "bear";
+ }
+ if (colour == "red" || colour == "blue") {
+
+ }
  
